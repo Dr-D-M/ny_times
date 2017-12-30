@@ -1,0 +1,298 @@
+
+div{
+	border: none;
+}
+body{
+	background: #fff;
+
+}
+
+/*MENU STYLE*/
+#menu{
+	width: 100%;
+	height: 45px;
+	background: #fff;
+	border: 1px solid #191919;
+	margin: 0 auto;
+	position: fixed;
+	top: 0;
+	z-index: 1;	
+}
+.text-center{
+	font-size: 20px;
+	font-weight: bold;
+	margin: 0 auto;
+	margin-top: 5px;
+}
+
+.btn-primary{
+	height: 30px;
+	margin-left: 10px;
+	font-weight: bold;
+	position: relative;
+	top: -20px;
+	float: right;
+}
+.btn-default{
+	font-weight: bold;
+	position: relative;
+	top: -20px;
+	margin-bottom: 15px;
+	border: none;
+	
+}
+.glyphicon-menu-hamburger, .glyphicon-home, .glyphicon-search{
+	margin-right: 5px;
+
+}
+
+#information{
+	width: 100%;
+	height: 100px;
+	background: ;
+	margin: 5px;
+	border: none;
+	box-shadow: 2px 2px 3px 3px #d4d4d4;
+	position: relative;
+	top: 46px;
+	
+}
+#advert{
+	width: 75%;
+	height: 150px;
+	margin: 0 auto;
+	box-shadow: 2px 2px 2px 3px #c4c4c4;
+	position: relative;
+	top: 50px;
+	z-index: 2;
+	border: none;
+
+}
+li{
+	list-style: none;
+}
+
+.head_pic{
+	float: left;
+	width: 150px;
+	height: 80px;
+	border-right: 1px solid black;
+	margin-left: 15px;
+	margin-top: 5px;
+	font-size: 15px;
+	font-weight: bold;
+}
+#inf_head{
+     margin: 0 auto;
+     position: ;
+}
+
+img{
+	width: 80px;
+	height: 80px;
+	margin-left: 15px;
+	float: left;
+	position: relative;
+	left: 3px;
+}
+
+
+
+
+/*contenido. El articulo en si*/
+#container{
+	width: 95%;
+	height: auto;
+	margin: 0 auto;
+	margin-top: 5px;
+	border: none;
+	border-top: 1px solid #191919;
+	position: relative;
+	top: 50px;
+	box-shadow: 0 1px 3px 3px #666;
+	
+}
+#science_image{
+	width: 98%;
+	height: auto;
+	margin: 0 auto;
+	position: relative;
+	left: 10px;
+}
+.img_footer{
+	font-size: 13px;
+	font-weight: bolder;
+	color: #666;
+}
+h3{
+	font-size: 10px;
+	font-weight: bold;
+	float: left;
+	margin: 0 auto;
+	position: relative;
+	top: 0;
+
+}
+#headline{
+	font-weight: bold;
+	font-size: 45px;
+	margin: 0 auto;
+	margin-top: 25px;
+	position: relative;
+
+}
+legend{
+	font-size: 10px;
+	font-weight: bolder;
+}
+.comment{
+	width: 25%;
+	height: auto;
+	box-shadow: 2px 2px 2px 3px #c4c4c4;
+	position: relative;
+	right: 5px;
+	float: right;
+}
+.name_user{
+	font-size: 15px;
+	font-weight: bold;
+	margin-left: 5px;
+}
+.date{
+	font-size: 12px;
+	font-weight: bold;
+	color: #c4c4c4;
+	margin-left: 5px;
+	margin-right: 6px;
+}
+#text_comment{
+	font-size: 12px;
+	font-weight: lighter;
+	color: #666;
+}
+.article{
+	width: 70%;
+	height: auto;
+	box-shadow: 2px 2px 2px 3px #c4c4c4;
+	margin: auto 0;
+	position: relative;
+	left: 10px;
+
+}
+#image_three{
+	width: 95%;
+	height: 380px;
+	border: none;
+	margin: 0 auto;
+}
+#image_four{
+	width: 55%;
+	height: 200px;
+	background: white;
+	font-weight: lighter;
+	margin: 0 auto;
+	border: none;
+	
+	
+}
+#notice {
+	font-size: 15px;
+	font-weight: lighter;
+	color: #c4c4c4;
+	margin: 0 auto;
+}
+#video_one{
+	width: 85%;
+	height: 375px;
+	border: none;
+	margin: 0 auto;
+	margin-left: 5px;
+}
+
+#text_advert{
+	width: 70%;
+	height: 200px;
+	box-shadow: 2px 2px 2px 3px #c4c4c4;
+	margin: 0 auto;
+}
+#title_three{
+	font-weight: bold;
+	font-size: 20px;
+}
+.img_footer_two{
+	margin: 0 auto;
+	margin-top: 60%;
+	font-size: 15px;
+	font-weight: bold;
+	color: #666;
+}
+#art_footer{
+	font-weight: bold;
+	font-size: 10px;
+	color: #c4c4c4;
+}
+#image_five{
+	width: 100%;
+	height: 500px;
+	margin: 0 auto;
+	position: absolute;
+	border: none;
+}
+
+/*footer articles*/
+
+#final{
+	width: 70%;
+	height: 450px;
+	box-shadow: 2px 2px 2px 3px #c4c4c4;
+}
+
+
+#img_final{
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+
+
+#art_one{
+	width: 25%;
+	height: 200px;
+	box-shadow: 2px 2px 2px 3px #c4c4c4;
+	margin-left: 220px;
+	margin-top: 5px;
+	font-weight: bold;
+
+	font-size: 20px;
+}
+
+#img_right{
+	width: 200px;
+	height: 200px;
+	float: right;
+	position: relative;
+	top: -400px;
+}
+#art_two{
+	width: 20%;
+	height: 200px;
+	box-shadow: 2px 2px 2px 3px #c4c4c4;
+	float: right;
+	position: absolute;
+	bottom: 201px;
+	left: 450px;
+	font-weight: bold;
+	font-size: 20px
+}
+#list{
+	width: 25%;
+	height: auto;
+	box-shadow: 2px 2px 2px 3px #c4c4c4;
+	position: absolute;
+	right: 5px;
+	bottom: 50px;
+	float: right;
+	font-size: 20px;
+	font-weight: bold;
+}
